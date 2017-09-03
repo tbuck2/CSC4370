@@ -1,0 +1,56 @@
+body{
+	font: sans-serif; 
+}
+span{
+	color:#DC143C;
+	font-weight:bold;
+}
+a:hover{
+	background-color: 	#9370DB;
+}
+h1{
+	
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 60px;
+
+}
+div#identified{
+	border-bottom: 8px white solid;
+}
+ img{
+	 display: block;
+	 margin: auto;
+	 width:20%;
+	 
+ }
+ table {
+	width: 80%;
+	text-align:center;
+	padding-top:2%;
+	margin:auto;
+	
+	}
+th {
+	font-weight: bold;
+	background-color: grey;
+	
+	
+	}
+	
+td{
+	background-color: lightgrey;
+}
+h3{
+	text-align:center;
+
+}
+h2{
+	color: white;
+}
+div{
+
+	text-align:center;
+	font-style:italic;
+	
+}
